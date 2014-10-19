@@ -1,7 +1,7 @@
 Baby Sleep Guides
 =================
 
-Baby sleep guides curated from the best of the Internet.
+Baby sleep guides are curated from the best of the Internet.
 
 Articles are summarized, archived, and cleansed of acroynms for convenience.
 
